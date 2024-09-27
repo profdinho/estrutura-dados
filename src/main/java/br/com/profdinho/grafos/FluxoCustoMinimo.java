@@ -1,7 +1,6 @@
 package br.com.profdinho.grafos;
 
 import java.util.Arrays;
-import java.util.LinkedList;
 
 class FluxoCustoMinimo {
     private static final int INF = Integer.MAX_VALUE;
